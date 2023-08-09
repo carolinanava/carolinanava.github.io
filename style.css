@@ -1,0 +1,151 @@
+
+a{
+    font-family: 'Quicksand', sans-serif;
+}
+nav a {
+    font-family: 'Quicksand', sans-serif;
+    text-decoration:none;
+    color: #DCC8FA;
+}
+ nav{
+    
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    
+ }
+.col-md-2 {
+    display: flex;
+width: 1440px;
+height: 48px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+background: #000000;
+
+}
+
+.col-md-10 {
+    display: flex;
+width: 1440px;
+height: 48px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+background: #000000;
+text-decoration: none;
+}
+ 
+
+
+.col-md-5{
+   
+    display: flex;
+    width: 1440px;
+    height: 50vw;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    
+    
+}
+
+.col-md-7{
+    display: flex;
+    width: 1440px;
+    height: 50vw ;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  
+}
+
+.gradient{
+    background:linear-gradient(135deg, #efedfa 0%, #ded7f2 35%, #ccc4eb 58%, #c6bee8 66%, #bfb4f0 100%);
+    
+}
+.fondonegro{
+    background:#000000;
+}
+
+.col-md-6{
+    display: flex;
+    width: 1440px;
+    height: 750px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    
+}
+
+.lila{
+    background-color: #000000;
+    
+}
+
+
+
+.banner{
+    display: flex;
+width: 1440px;
+height: 200px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+background: #D0C5FF;
+}
+
+.col-md-4{
+    display: flex;
+    flex-direction:row;
+    width: 1440px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    
+    
+}
+
+.col-md-8{
+    display: flex;
+    width: 1440px;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  
+}
+.col-md-12{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 1;
+}
+
+.col-md-3{
+    display: flex;
+    width: 1440px;
+    height: 750px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background: #000000;
+  
+}
+.carousel-container {
+    max-width: 100px; /* Ajusta este valor al ancho deseado del carrusel */
+    margin: 0 auto; 
+    /* Centra el carrusel horizontalmente */
+  
+  }
+  .carousel-caption {
+    top: 0;
+    bottom: initial;
+    transform: translateY(0);
+  
+  }
+  
+  
